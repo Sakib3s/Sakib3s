@@ -1,100 +1,134 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Well, hello there! What a delightful surprise to have you here.</h1>
+# Sakib Hasan
 
-## 👨‍💻 I'm Sakib Hasan  
-🚀 Full Stack Web Developer (WordPress • Moodle • PHP)  
-📍 Sylhet, Bangladesh 🇧🇩  
+**WordPress Developer (PHP, Themes & Plugins)**  
+Building high-performance, SEO-optimized web products.
 
-💡 I’m an accomplished **Moodle Theme Developer** and **WordPress Product Developer** at **Salah Software**, passionate about building fast, secure, scalable, and user-friendly web solutions.  
-I love working on **performance optimization**, **clean architecture**, **UI/UX polish**, and **maintainable code** with strong documentation.
-
----
-
-## 🔗 Websites / Portfolio / Profiles
-🌐 Portfolio: https://sakibhasanprotfolio.netlify.app/  
-💼 LinkedIn: https://www.linkedin.com/in/sakib-hasan-369393172/  
+🌐 Portfolio: https://sakibhasan.me  
+📧 Email: 3s.sakibhasan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sakib-hasan-369393172/  
 💻 GitHub: https://github.com/Sakib3s  
 
 ---
 
-## 🧠 Core Skills
-✅ WordPress Theme Development (ThemeForest Ready)  
-✅ WordPress Plugin Development (WP.org Ready + Secure)  
-✅ Moodle Theme Development & LMS Customization  
-✅ PHP Modular Architecture, CRUD Utilities, Validation  
-✅ API Integration & Web Services  
-✅ Responsive UI, SCSS Structure, Performance Tuning  
-✅ Git, Version Control, Collaboration & Code Review  
-✅ Documentation, Product Delivery, QA & Release Planning  
+## 🚀 About Me
+
+I am a WordPress Developer with 8+ years of experience building high-performance, scalable, and SEO-optimized web products.
+
+I specialize in:
+- Custom WordPress theme & plugin development
+- PHP-based scalable architecture
+- Moodle LMS theme development
+- Performance optimization and clean code practices
+
+My developed themes and plugins are currently used on **25,000+ websites**, demonstrating real-world impact and reliability.
+
+I have also worked in team leadership roles, managing development workflows, code reviews, and ensuring high-quality releases.
 
 ---
 
-## 🏢 Experience
-### 🟣 Moodle Theme Developer — *Salah Software* (01/2023 - 01/2026)
-- Designed Moodle themes optimized for learning workflows, accessibility & fast load time  
-- Delivered marketplace-ready packages with structured SCSS & customization documentation  
+## 🛠️ Skills
 
-### 🔵 WordPress Plugin Developer — *Salah Software* (01/2022 - 01/2026)
-- Built workflow-focused plugins for clients & WP.org releases  
-- Maintained updates, versioning, admin UX & support documentation  
+**WordPress**
+- Custom Theme Development
+- Plugin Development
+- ThemeForest & WordPress.org
+- Elementor
 
-### 🟠 WordPress Theme Developer — *Salah Software* (01/2020 - 01/2026)
-- Built ThemeForest-ready themes with performance optimization  
-- Managed design QA, documentation & demo setup  
+**Backend**
+- PHP
+- MySQL
+- API Integration
+- Modular Architecture
 
-### 🟡 PHP Team Lead — *Salah Software* (01/2024 - 01/2026)
-- Led Moodle & WordPress product execution  
-- Improved collaboration, standardized coding practices & ensured stable releases  
+**Frontend**
+- HTML, CSS, SCSS
+- JavaScript, jQuery
+- Bootstrap
+- React (basic)
 
-### 🟢 Web Design & Development Trainer — *IT Training 4U* (01/2023 - 01/2026)
-- Delivered hands-on training with real projects, code reviews & portfolio guidance  
-- Designed beginner-to-job-ready learning paths  
-
----
-
-## 🚀 Projects
-📌 Explore my work here:  
-👉 https://sakibhasanprotfolio.netlify.app/#projects  
-
----
-
-## 🧩 Work Style
-✨ **Build fast, scale smart, deliver well.**  
-- Performance + UX polish + maintainable code  
-- Transparent collaboration & strong documentation  
-- Reliable delivery and clean releases  
+**Other**
+- Moodle LMS Themes
+- Performance Optimization
+- SEO-friendly Development
+- Git & GitHub
 
 ---
 
-## 🛠️ Tech Stack
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 💼 Experience
+
+### WordPress & PHP Developer / Team Lead  
+**Salah Software** | 2018 – Feb 2026
+
+- Contributed to products across EnvyTheme, HiBootstrap, GutoTheme, HiboTheme, and more  
+- Developed ThemeForest and WordPress.org-ready themes and plugins used on **25,000+ websites**  
+- Led development workflows, code reviews, and release quality  
+- Built scalable WordPress themes, plugins, and Moodle LMS solutions  
+- Improved performance, maintainability, and product quality  
 
 ---
 
-## 🌍 Languages
-🇧🇩 Bengali: Native  
-🇬🇧 English: Intermediate (B1)  
+### Trainer – Web Design & Development  
+**IT Training 4U** | 2023 – Feb 2026
+
+- Delivered hands-on training with real-world projects  
+- Helped students become job-ready developers  
 
 ---
 
-## 📫 Contact Me
-📍 Sylhet, Bangladesh  
-📧 Email: 3s.sakibhasan@gmail.com  
-📱 Phone: +8801752779502  
+## 📌 Selected Projects
+
+### 🔹 eCademy  
+LMS WordPress theme for online courses and coaching platforms  
+🔗 https://themeforest.net/item/ecademy-education-lms-wordpress-theme/26701069  
 
 ---
 
-⭐ If you like my work, feel free to follow me and check out my repositories!
+### 🔹 StartNext  
+Startup & SaaS WordPress theme for IT and technology businesses  
+🔗 https://themeforest.net/item/startnext-startups-wordpress-theme/23715707  
+
+---
+
+### 🔹 Guto  
+Multi-purpose WordPress theme with flexible and scalable components  
+🔗 https://gutotheme.com/  
+
+---
+
+### 🔹 EnvyTheme Platform  
+Full-site development with licensing system and scalable architecture  
+🔗 https://envytheme.com/  
+
+---
+
+### 🔹 eDash  
+Moodle-based LMS theme for modern education platforms  
+🔗 https://themeforest.net/item/edash-moodle-education-lms-theme/38977543  
+
+---
+
+## 🎯 Current Focus
+
+- Open to **full-time remote opportunities**
+- Building **high-performance WordPress products**
+- Improving **SEO, speed, and scalability**
+
+---
+
+## 📈 Highlights
+
+- 8+ years experience  
+- 25,000+ websites powered  
+- ThemeForest & WordPress.org contributions  
+- Team leadership experience  
+
+---
+
+## 📬 Contact
+
+If you're looking for a WordPress developer focused on performance, scalability, and real-world product impact:
+
+👉 Email: **3s.sakibhasan@gmail.com**  
+👉 Portfolio: **https://sakibhasan.me**
+
+---
