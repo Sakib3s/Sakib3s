@@ -6,7 +6,6 @@ Building high-performance, SEO-optimized web products.
 🌐 Portfolio: https://sakibhasan.me  
 📧 Email: 3s.sakibhasan@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sakib-hasan-369393172/  
-💻 GitHub: https://github.com/Sakib3s  
 
 ---
 
