@@ -3,7 +3,7 @@
 **WordPress Developer (PHP, Themes & Plugins)**  
 Building high-performance, SEO-optimized web products.
 
-🌐 Portfolio: https://sakibhasan.me  
+🌐 Portfolio: https://sakibweb.com  
 📧 Email: 3s.sakibhasan@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sakib-hasan-369393172/  
 
